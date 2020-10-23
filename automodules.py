@@ -6,7 +6,7 @@ import glob
 
 
 class Modules:
-    """Dynamic class to handle MAIN from ./MAIN
+    """Dynamic class to handle modules from ./modules
     """
 
     def __init__(self):
